@@ -6,6 +6,6 @@
 
 - to position robot: PLACE x, y, direction  e.g. PLACE 1, 1, NORTH 
 
-- to move robot on board use commands: MOVE, LEFT AND RIGHT
+- to move robot on board use commands: MOVE, LEFT and RIGHT
 
 - to output robot position use command: REPORT
