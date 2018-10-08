@@ -80,7 +80,7 @@ class RobotUI
     x = x_raw.to_i
     y = y_raw.to_i
 
-    {x: x, y: y, direction: direction}
+    {x: x, y: y, direction: direction.strip}
   end
 
   def valid_number?(str)
